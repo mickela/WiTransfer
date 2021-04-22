@@ -1,6 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 import App from './App'
+import './Bootstrap.css'
 import './App.css'
 
 // Since we are using HtmlWebpackPlugin WITHOUT a template, we should create our own root node in the body element before rendering into it
